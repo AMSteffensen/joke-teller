@@ -8,17 +8,11 @@
 Random Programmer Jokes text to speech in vanilla JavaScript. 
 Uses Voicersss for Text to speech and sv443.net for joke generation.
 
-Sources:
-Joke API: https://sv443.net/jokeapi/v2/ 
-Text to speech API: http://www.voicerss.org/sdk/javascript.aspx
-ROBOT.GIF from Giphy - https://giphy.com/gifs/robot-cinema-4d-eyedesyn-3o7abtn7DuREEpsyWY 
-
 </div>
-
 
 ## Getting started
 
-1. Clone or fork this repo: `git clone https://github.com/stowball/elf`
+1. Clone or fork this repo: `git clone https://github.com/amsteffensen/joke-teller`
 2. `cd` into the project directory and run `npm install`
 
 ## Running and serving a dev build
@@ -38,9 +32,15 @@ npm run serve:prod
 
 Browse to [http://localhost:5000](http://localhost:5000).
 
+## Sources
+- Joke API: https://sv443.net/jokeapi/v2/ 
+- Text to speech API: http://www.voicerss.org/sdk/javascript.aspx
+- ROBOT.GIF from Giphy - https://giphy.com/gifs/robot-cinema-4d-eyedesyn-3o7abtn7DuREEpsyWY 
+- Udemy Course: https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/
+
 ## Technologies used
 
-* [Eleventy](https://www.11ty.dev/)… obviously
+* [Eleventy](https://www.11ty.dev/)… 
 * [EJS](https://ejs.co/) as the templating language
 * [Sass](https://sass-lang.com/) for writing CSS
 * [Babel](https://babeljs.io/) for transpiling and polyfilling JavaScript
