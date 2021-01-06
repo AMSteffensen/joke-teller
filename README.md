@@ -18,7 +18,7 @@ ROBOT.GIF from Giphy - https://giphy.com/gifs/robot-cinema-4d-eyedesyn-3o7abtn7D
 
 ## Getting started
 
-1. Clone or fork this repo: `git clone https://github.com/stowball/elf`
+1. Clone or fork this repo: `git clone https://github.com/amsteffensen/joke-teller`
 2. `cd` into the project directory and run `npm install`
 
 ## Running and serving a dev build
