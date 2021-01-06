@@ -9,12 +9,6 @@ Random Programmer Jokes text to speech in vanilla JavaScript.
 Uses Voicersss for Text to speech and sv443.net for joke generation.
 
 </div>
-## Sources
-Joke API: https://sv443.net/jokeapi/v2/ 
-Text to speech API: http://www.voicerss.org/sdk/javascript.aspx
-ROBOT.GIF from Giphy - https://giphy.com/gifs/robot-cinema-4d-eyedesyn-3o7abtn7DuREEpsyWY 
-Udemy Course: https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/
-
 
 ## Getting started
 
@@ -37,6 +31,12 @@ npm run serve:prod
 ```
 
 Browse to [http://localhost:5000](http://localhost:5000).
+
+## Sources
+- Joke API: https://sv443.net/jokeapi/v2/ 
+- Text to speech API: http://www.voicerss.org/sdk/javascript.aspx
+- ROBOT.GIF from Giphy - https://giphy.com/gifs/robot-cinema-4d-eyedesyn-3o7abtn7DuREEpsyWY 
+- Udemy Course: https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/
 
 ## Technologies used
 
