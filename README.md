@@ -6,11 +6,12 @@
 
 # Joke Teller Vanilla JavaScript APP
 Random Programmer Jokes text to speech in vanilla JavaScript. 
+Uses Voicersss for Text to speech and sv443.net for joke generation.
 
-This application uses this API http://www.voicerss.org/sdk/javascript.aspx for text to speech generation.
-We then use https://sv443.net/jokeapi/v2/ to generate jokes. 
-
-/* ROBOT.GIF from Giphy - https://giphy.com/gifs/robot-cinema-4d-eyedesyn-3o7abtn7DuREEpsyWY */
+Sources:
+Joke API: https://sv443.net/jokeapi/v2/ 
+Text to speech API: http://www.voicerss.org/sdk/javascript.aspx
+ROBOT.GIF from Giphy - https://giphy.com/gifs/robot-cinema-4d-eyedesyn-3o7abtn7DuREEpsyWY 
 
 </div>
 
