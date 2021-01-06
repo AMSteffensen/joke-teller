@@ -12,6 +12,7 @@ Sources:
 Joke API: https://sv443.net/jokeapi/v2/ 
 Text to speech API: http://www.voicerss.org/sdk/javascript.aspx
 ROBOT.GIF from Giphy - https://giphy.com/gifs/robot-cinema-4d-eyedesyn-3o7abtn7DuREEpsyWY 
+Udemy Course: https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/
 
 </div>
 
@@ -40,7 +41,7 @@ Browse to [http://localhost:5000](http://localhost:5000).
 
 ## Technologies used
 
-* [Eleventy](https://www.11ty.dev/)… obviously
+* [Eleventy](https://www.11ty.dev/)… 
 * [EJS](https://ejs.co/) as the templating language
 * [Sass](https://sass-lang.com/) for writing CSS
 * [Babel](https://babeljs.io/) for transpiling and polyfilling JavaScript
