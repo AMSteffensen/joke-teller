@@ -2,7 +2,7 @@
   <img
     alt="Elf logo"
     height="200"
-    src="https://github.com/stowball/elf/blob/master/src/images/logo.svg?raw=true"
+    src="https://github.com/AMSteffensen/joke-teller/blob/main/src/images/robot.gif"
   />
 
 # Elf

@@ -1,4 +1,4 @@
 ---
-title: My cool website
+title: Programming jokes.
 layout: default.ejs
 ---
