@@ -1,9 +1,8 @@
 <div align="center">
-  <img
-    alt="Joke teller logo"
-    height="200"
-    src="https://github.com/AMSteffensen/joke-teller/blob/main/src/images/robot.gif"
-  />
+ 
+   <a href="https://github.com/AMSteffensen/joke-teller/" height="200" target="_blank">
+    <img src="https://github.com/AMSteffensen/joke-teller/blob/main/src/images/robot.gif" alt="Joke teller logo" />
+  </a>
 
 # Joke Teller Vanilla JavaScript APP
 Random Programmer Jokes text to speech in vanilla JavaScript. 
