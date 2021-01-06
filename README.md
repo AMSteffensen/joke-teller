@@ -1,6 +1,6 @@
 <div align="center">
  
-   <a href="https://joketeller.netlify.app" target="_blank">
+   <a href="https://jokerobot.netlify.app" target="_blank">
     <img src="https://github.com/AMSteffensen/joke-teller/blob/main/src/images/robot.gif" height="250" alt="Joke teller logo" />
   </a>
 
