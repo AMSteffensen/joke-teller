@@ -1,17 +1,20 @@
 <div align="center">
-  <img
-    alt="Elf logo"
-    height="200"
-    src="https://github.com/AMSteffensen/joke-teller/blob/main/src/images/robot.gif"
-  />
+ 
+   <a href="https://joketeller.netlify.app" target="_blank">
+    <img src="https://github.com/AMSteffensen/joke-teller/blob/main/src/images/robot.gif" height="250" alt="Joke teller logo" />
+  </a>
 
-# Elf
+# Joke Teller Vanilla JavaScript APP
+Random Programmer Jokes text to speech in vanilla JavaScript. 
+Uses Voicersss for Text to speech and sv443.net for joke generation.
+
+Sources:
+Joke API: https://sv443.net/jokeapi/v2/ 
+Text to speech API: http://www.voicerss.org/sdk/javascript.aspx
+ROBOT.GIF from Giphy - https://giphy.com/gifs/robot-cinema-4d-eyedesyn-3o7abtn7DuREEpsyWY 
 
 </div>
 
-Elf is a simple, magical [Eleventy](https://www.11ty.dev/) starter kit to help you create a project using standard technologies like webpack, Babel and Sass, while also considering ease of use, performance and browser compatibility.
-
-If you'd like to know why Elf exists and how best to take advantage of it, read [Creating a production-ready Eleventy project with webpack, Babel and Sass](https://dev.to/stowball/creating-a-production-ready-eleventy-project-with-webpack-babel-and-sass-35ep).
 
 ## Getting started
 
